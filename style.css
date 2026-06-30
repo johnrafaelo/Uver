@@ -1,8 +1,5 @@
-p {
-    font: arial;
-}
-
 .sub-title {
+    font-family: arial;
     font-weight: 450;
     font-size: 30px;
     margin-top: 0px;
