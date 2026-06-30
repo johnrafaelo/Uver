@@ -1,0 +1,66 @@
+.sub-title {
+    font-weight: 450;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+input {
+    display: block;
+    background-color: #ededed;
+}
+
+.loc {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 50px;
+    margin-bottom: 4px;
+    border: none;
+    border-radius: 2px;
+}
+
+.dest {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 50px;
+    margin-bottom: 25px;
+    border: none;
+    border-radius: 2px;
+}
+
+button {
+    font-weight: 500;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.req {
+    background-color: black;
+    color: white;
+    margin-right: 5px;
+}
+
+.req:active {
+    background-color: white;
+    color: black;
+    transition: 0.1s;
+}
+
+.lat {
+    background-color: #ededed;
+}
+
+.lat:active {
+    background-color: #121212;
+    color: white;
+    transition: 0.1s;
+}
