@@ -11,6 +11,10 @@ input {
     background-color: #ededed;
 }
 
+input:hover {
+    cursor: text;
+}
+
 .loc {
     padding-top: 10px;
     padding-bottom: 10px;
